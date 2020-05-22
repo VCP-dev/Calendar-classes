@@ -1,5 +1,5 @@
 # Calendar-classes
-Classes used for getting dates of months, weeks and hours within a day
+Classes used for getting dates of months, weeks and for getting the hours within a day
 
 current features:
 
