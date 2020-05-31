@@ -67,12 +67,12 @@ public class frontpagedetails extends monthlydetails {
 
         for(int i=0;i<midpos;i++)
         {
-            frontpagedetails.firstmonth.add(twomonthlist.get(i));
+            firstmonth.add(twomonthlist.get(i));
         }
 
         for(int i=midpos+1;i<twomonthlist.size();i++)
         {
-            frontpagedetails.secondmonth.add(twomonthlist.get(i));
+            secondmonth.add(twomonthlist.get(i));
         }
     }
 
